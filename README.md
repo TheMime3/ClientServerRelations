@@ -10,16 +10,14 @@ The Messenger Chat Client is a Python application that combines a login screen a
 
 ## Installation
 
-1. Clone this repository or download the source code.
+Clone this repository or download the source code.
 
-```shell
 git clone https://github.com/TheMime3/ClientServerRelations.git
 
 Make sure you have Python 3 installed on your system.
 
 Install the required Python packages if you haven't already:
 
-'''shell
 pip install PyQt5 bcrypt
 
 Usage
